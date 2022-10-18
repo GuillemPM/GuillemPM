@@ -4,6 +4,7 @@ What happened :p
 
 [![@guillempm's Holopin board](https://holopin.me/guillempm)](https://holopin.io/@guillempm)
 
+![](https://komarev.com/ghpvc/?username=guillempm&style=flat-square)
 <!--
 **GuillemPM/GuillemPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
